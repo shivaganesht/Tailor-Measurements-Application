@@ -1,6 +1,6 @@
-### Tailor Measurements Application
+# Tailor Measurements Application
 
-## This application is designed to streamline the tailoring process for both tailors and customers. It provides a platform for customers to securely store their personal details and measurement preferences. Tailors can efficiently manage their customer data, track orders, and maintain a detailed record of each client's specific needs.
+### This application is designed to streamline the tailoring process for both tailors and customers. It provides a platform for customers to securely store their personal details and measurement preferences. Tailors can efficiently manage their customer data, track orders, and maintain a detailed record of each client's specific needs.
 
 ### Key Features:
 
