@@ -1,8 +1,8 @@
-#Tailor Measurements Application
+### Tailor Measurements Application
 
-##This application is designed to streamline the tailoring process for both tailors and customers. It provides a platform for customers to securely store their personal details and measurement preferences. Tailors can efficiently manage their customer data, track orders, and maintain a detailed record of each client's specific needs.
+## This application is designed to streamline the tailoring process for both tailors and customers. It provides a platform for customers to securely store their personal details and measurement preferences. Tailors can efficiently manage their customer data, track orders, and maintain a detailed record of each client's specific needs.
 
-###Key Features:
+### Key Features:
 
 * **User Authentication:** Securely authenticate users (both tailors and customers) using Firebase Authentication to protect sensitive information.
 * **Customer Profile Management:** Customers can create detailed profiles, including personal information, measurement history, and preferred styles.
